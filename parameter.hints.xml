@@ -1,0 +1,13 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="PHP">
+        <removed pattern="" />
+      </blacklist>
+      <blacklist language="PHP">
+        <added pattern="\Lib\Log.add(category,message,level,scriptName,lineNumber,callingFunction,microtime,output)" />
+        <added pattern="\Lib\Base.log(message,level)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
