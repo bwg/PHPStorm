@@ -13,7 +13,7 @@
     <interpreters>
       <interpreter home="/usr/local/bin/php" id="8385ed7e-7c65-4261-902d-722cb2e4d96b" name="PHP 5.6 Homebrew" debugger_id="php.debugger.XDebug" />
       <interpreter home="sftp://lee@lee.smugmug.net:22/usr/bin/php" id="8f9e339f-730c-4a05-acb4-6699e1f8d4ed" name="lee-5" debugger_id="php.debugger.XDebug">
-        <remote_data WEB_SERVER_CONFIG_ID="ef0d72c9-f4f4-4e7b-9259-d8eec4394f23" WEB_SERVER_CONFIG_NAME="lee-5" HOST="lee.smugmug.net" PORT="22" ANONYMOUS="false" USERNAME="lee" PASSWORD="" PRIVATE_KEY_FILE="$USER_HOME$/.ssh/id_rsa" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="true" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/lee/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+        <remote_data WEB_SERVER_CONFIG_ID="ef0d72c9-f4f4-4e7b-9259-d8eec4394f23" WEB_SERVER_CONFIG_NAME="lee-5" WEB_SERVER_CREDENTIALS_ID="sftp://lee@lee.smugmug.net:22" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/lee/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
     </interpreters>
   </component>
@@ -791,5 +791,10 @@
         </phpinfo>
       </interpreter>
     </phpInfoCache>
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <phpunit_by_interpreter interpreter_id="8f9e339f-730c-4a05-acb4-6699e1f8d4ed" interpreter_name="lee-5" load_method="PHPUNIT_PHAR" bootstrap_file_path="/home/lee/lee-5/include/tests/bootstrap.php" custom_loader_path="" phpunit_phar_path="/home/lee/phpunit.phar" use_bootstrap_file="true" />
+    </phpunit_settings>
   </component>
 </application>
