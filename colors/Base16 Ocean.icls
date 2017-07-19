@@ -22,7 +22,7 @@
     <option name="CONSOLE_BACKGROUND_KEY" value="282b35" />
     <option name="DELETED_LINES_COLOR" value="a7151d" />
     <option name="GUTTER_BACKGROUND" value="282c35" />
-    <option name="INDENT_GUIDE" value="2e363d" />
+    <option name="INDENT_GUIDE" value="313945" />
     <option name="LINE_NUMBERS_COLOR" value="454f5a" />
     <option name="METHOD_SEPARATORS_COLOR" value="2e363d" />
     <option name="MODIFIED_LINES_COLOR" value="4b6070" />
@@ -2041,11 +2041,6 @@
         <option name="FOREGROUND" value="dc322f" />
       </value>
     </option>
-    <option name="REST.BOLD">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="REST.EXPLICIT">
       <value>
         <option name="FOREGROUND" value="268bd2" />
@@ -2073,11 +2068,6 @@
       <value>
         <option name="FOREGROUND" value="73642" />
         <option name="BACKGROUND" value="b58900" />
-      </value>
-    </option>
-    <option name="REST.ITALIC">
-      <value>
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="REST.LINE_COMMENT">
