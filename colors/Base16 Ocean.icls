@@ -90,7 +90,25 @@
       </value>
     </option>
     <option name="BREADCRUMBS_CURRENT">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="6c7076" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="6c7076" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_HOVERED">
+      <value>
+        <option name="FOREGROUND" value="6c7076" />
+        <option name="BACKGROUND" value="e0e0e0" />
+      </value>
+    </option>
+    <option name="BREADCRUMBS_INACTIVE">
+      <value>
+        <option name="FOREGROUND" value="6c7076" />
+      </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
