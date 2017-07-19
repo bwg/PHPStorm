@@ -35,6 +35,7 @@
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
     <option name="ALIGN_CLASS_CONSTANTS" value="true" />
     <option name="BLANK_LINES_AFTER_FUNCTION" value="2" />
+    <option name="KEEP_BLANK_LINES_AFTER_LBRACE" value="1" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
   </PHPCodeStyleSettings>
   <XML>
