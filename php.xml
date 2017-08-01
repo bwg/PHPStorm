@@ -377,9 +377,4 @@
       </interpreter>
     </phpInfoCache>
   </component>
-  <component name="PhpUnit">
-    <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="8f9e339f-730c-4a05-acb4-6699e1f8d4ed" interpreter_name="lee-5" load_method="PHPUNIT_PHAR" bootstrap_file_path="/home/lee/lee-5/include/tests/bootstrap.php" custom_loader_path="" phpunit_phar_path="/home/lee/phpunit.phar" use_bootstrap_file="true" />
-    </phpunit_settings>
-  </component>
 </application>
