@@ -81,17 +81,6 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="26f68d05-b213-47f2-bdab-ea007e511ddd" name="1.lee" url="https://1.lee.smugmug.net">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-      <webServer id="08246f83-0301-414f-803c-ddf818ecd089" name="PHP7 Sandbox" url="http://10.100.2.25">
-        <fileTransfer host="10.100.2.25" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/lee/SmugMug" accessType="SFTP" keyPair="true" username="lee">
-          <advancedOptions>
-            <advancedOptions keepAliveTimeout="0" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
     </option>
   </component>
 </application>
