@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="ef0d72c9-f4f4-4e7b-9259-d8eec4394f23" name="lee-5" url="http://5.lee.smugmug.net">
-        <fileTransfer host="lee.smugmug.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/lee/lee-5" accessType="SFTP" username="lee" keyPair="true">
+        <fileTransfer host="lee.smugmug.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/lee/lee-5" accessType="SFTP" keyPair="true" username="lee">
           <advancedOptions>
             <advancedOptions keepAliveTimeout="0" />
           </advancedOptions>
@@ -10,7 +10,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="1539f7c7-70f7-421c-b0ec-67cdf438b777" name="lee-6" url="http://6.lee.smugmug.net">
-        <fileTransfer host="lee.smugmug.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/lee/lee-6" accessType="SFTP" username="lee" keyPair="true">
+        <fileTransfer host="lee.smugmug.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/lee/lee-6" accessType="SFTP" keyPair="true" username="lee">
           <advancedOptions>
             <advancedOptions keepAliveTimeout="0" />
           </advancedOptions>
@@ -18,7 +18,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="f4a873a8-a819-4738-b06b-c39509724f9a" name="lee-4" url="http://4.lee.smugmug.net">
-        <fileTransfer host="lee.smugmug.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/lee/lee-4" accessType="SFTP" username="lee" keyPair="true">
+        <fileTransfer host="lee.smugmug.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/lee/lee-4" accessType="SFTP" keyPair="true" username="lee">
           <advancedOptions>
             <advancedOptions keepAliveTimeout="0" />
           </advancedOptions>
@@ -26,7 +26,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="43151cfd-7531-4943-9a30-99e1b6096276" name="lee-3" url="http://3.lee.smugmug.net">
-        <fileTransfer host="lee.smugmug.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/lee/lee-3" accessType="SFTP" username="lee" keyPair="true">
+        <fileTransfer host="lee.smugmug.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/lee/lee-3" accessType="SFTP" keyPair="true" username="lee">
           <advancedOptions>
             <advancedOptions keepAliveTimeout="0" />
           </advancedOptions>
@@ -34,7 +34,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="8087872d-08b4-4707-8b51-24fa0d8f3ac5" name="lee-8" url="http://8.lee.smugmug.net">
-        <fileTransfer host="lee.smugmug.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/lee/lee-8" accessType="SFTP" username="lee" keyPair="true">
+        <fileTransfer host="lee.smugmug.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/lee/lee-8" accessType="SFTP" keyPair="true" username="lee">
           <advancedOptions>
             <advancedOptions keepAliveTimeout="0" />
           </advancedOptions>
@@ -42,7 +42,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="f6a13d4d-1de2-40a9-b57f-c16adc0f35af" name="lee-10" url="http://10.lee.smugmug.net">
-        <fileTransfer host="lee.smugmug.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/lee/lee-10" accessType="SFTP" username="lee" keyPair="true">
+        <fileTransfer host="lee.smugmug.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/lee/lee-10" accessType="SFTP" keyPair="true" username="lee">
           <advancedOptions>
             <advancedOptions keepAliveTimeout="0" />
           </advancedOptions>
@@ -50,7 +50,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="5ec641a5-d6c4-44e2-8997-896a97b9e809" name="lee-9" url="http://9.lee.smugmug.net">
-        <fileTransfer host="lee.smugmug.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/lee/lee-9" accessType="SFTP" username="lee" keyPair="true">
+        <fileTransfer host="lee.smugmug.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/lee/lee-9" accessType="SFTP" keyPair="true" username="lee">
           <advancedOptions>
             <advancedOptions keepAliveTimeout="0" />
           </advancedOptions>
@@ -58,7 +58,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="f94f7ea4-b4ae-4b9d-99de-bf87e174989d" name="lee-7" url="http://7.lee.smugmug.net">
-        <fileTransfer host="lee.smugmug.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/lee/lee-7" accessType="SFTP" username="lee" keyPair="true">
+        <fileTransfer host="lee.smugmug.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/lee/lee-7" accessType="SFTP" keyPair="true" username="lee">
           <advancedOptions>
             <advancedOptions keepAliveTimeout="0" />
           </advancedOptions>
@@ -66,7 +66,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="43154f37-490a-466c-a958-4fd2ea266c1f" name="lee-1" url="http://1.lee.smugmug.net">
-        <fileTransfer host="lee.smugmug.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/lee/lee-1" accessType="SFTP" username="lee" keyPair="true">
+        <fileTransfer host="lee.smugmug.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/lee/lee-1" accessType="SFTP" keyPair="true" username="lee">
           <advancedOptions>
             <advancedOptions keepAliveTimeout="0" />
           </advancedOptions>
@@ -74,7 +74,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="af941b3a-1491-4fe9-9882-e60dd1042215" name="lee-2" url="http://2.lee.smugmug.net">
-        <fileTransfer host="lee.smugmug.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/lee/lee-2" accessType="SFTP" username="lee" keyPair="true">
+        <fileTransfer host="lee.smugmug.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/lee/lee-2" accessType="SFTP" keyPair="true" username="lee">
           <advancedOptions>
             <advancedOptions keepAliveTimeout="0" />
           </advancedOptions>
