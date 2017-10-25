@@ -3,9 +3,6 @@
     <library name="YUI-3.10.0" type="javaScript">
       <properties>
         <option name="frameworkName" value="YUI 3" />
-        <sourceFilesUrls>
-          <item url="file://$USER_HOME$/Library/Caches/WebIde80/extLibs/http_yui.yahooapis.com_3.10.0_build_yui_yui.js" />
-        </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/WebIde80/extLibs/http_yui.yahooapis.com_3.10.0_build_yui_yui.js" />
