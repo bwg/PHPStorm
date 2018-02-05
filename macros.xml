@@ -1,0 +1,10 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="replace comma with semicolon on end of line">
+      <action id="EditorLineEnd" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="59:0">;</typing>
+      <action id="EditorDown" />
+    </macro>
+  </component>
+</application>
