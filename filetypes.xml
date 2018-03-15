@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="bulkBuilderTest.php" type="PHP" />
       <mapping ext="mgi" type="PHP" />
       <mapping ext="mg" type="PHP" />
     </extensionMap>
