@@ -105,6 +105,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="b3ad804f-f721-4d2c-bdaa-a6571809c3ab" name="es-canary" url="http://lee.smugmug.net">
+        <fileTransfer host="10.100.14.2" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/lee/repos/SmugMug" accessType="SFTP" keyPair="true" username="lee">
+          <advancedOptions>
+            <advancedOptions keepAliveTimeout="0" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
