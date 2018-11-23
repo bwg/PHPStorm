@@ -10,7 +10,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="1539f7c7-70f7-421c-b0ec-67cdf438b777" name="lee-6" url="http://6.lee.smugmug.net">
-        <fileTransfer host="lee.smugmug.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/lee/lee-6" accessType="SFTP" keyPair="true" username="lee">
+        <fileTransfer host="lee.smugmug.net" port="22" rootFolder="/home/lee/lee-6" accessType="SFTP" authAgent="true" username="lee">
           <advancedOptions>
             <advancedOptions keepAliveTimeout="0" />
           </advancedOptions>
