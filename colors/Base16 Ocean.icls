@@ -23,7 +23,8 @@
     <option name="DELETED_LINES_COLOR" value="a7151d" />
     <option name="GUTTER_BACKGROUND" value="282c35" />
     <option name="INDENT_GUIDE" value="2e363d" />
-    <option name="LINE_NUMBERS_COLOR" value="454f5a" />
+    <option name="LINE_NUMBERS_COLOR" value="5d626c" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="9b9ca1" />
     <option name="METHOD_SEPARATORS_COLOR" value="2e363d" />
     <option name="MODIFIED_LINES_COLOR" value="4b6070" />
     <option name="NOTIFICATION_BACKGROUND" value="fdf6e3" />
