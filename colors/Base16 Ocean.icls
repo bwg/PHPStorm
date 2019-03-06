@@ -1728,6 +1728,49 @@
         <option name="FOREGROUND" value="b58800" />
       </value>
     </option>
+    <option name="PERL_DQ_STRING">
+      <value>
+        <option name="FOREGROUND" value="72bf7d" />
+      </value>
+    </option>
+    <option name="PERL_EMBED_MARKER">
+      <value>
+        <option name="FOREGROUND" value="b50000" />
+      </value>
+    </option>
+    <option name="PERL_GLOB_BUILTIN">
+      <value>
+        <option name="FOREGROUND" value="b50000" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PERL_SQ_STRING">
+      <value>
+        <option name="FOREGROUND" value="39a2a8" />
+      </value>
+    </option>
+    <option name="PERL_SUB">
+      <value>
+        <option name="FOREGROUND" value="598be8" />
+      </value>
+    </option>
+    <option name="PERL_SUB_BUILTIN">
+      <value>
+        <option name="FOREGROUND" value="6497ff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PERL_SUB_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="6497ff" />
+      </value>
+    </option>
+    <option name="PERL_XSUB">
+      <value>
+        <option name="FOREGROUND" value="6497ff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="PHP_CONSTANT">
       <value>
         <option name="FOREGROUND" value="c67863" />
