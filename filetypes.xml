@@ -5,6 +5,7 @@
       <mapping pattern="queueUsersForUpdateNodePasswordHints.php" type="PHP" />
       <mapping ext="mgi" type="PHP" />
       <mapping ext="mg" type="PHP" />
+      <mapping ext="gne" type="PHP" />
     </extensionMap>
   </component>
 </application>
