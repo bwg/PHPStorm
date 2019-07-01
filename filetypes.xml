@@ -1,12 +1,18 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="bulkBuilderTest.php" type="PHP" />
       <mapping pattern="queueUsersForUpdateNodePasswordHints.php" type="PHP" />
+      <mapping pattern="bulkBuilderTest.php" type="PHP" />
+      <mapping ext="gne" type="PHP" />
       <mapping ext="mgi" type="PHP" />
       <mapping ext="mg" type="PHP" />
-      <mapping ext="gne" type="PHP" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="GraphApi.php" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
